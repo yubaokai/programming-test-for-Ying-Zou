@@ -3,6 +3,9 @@ import sys
 from imp import reload
 reload(sys)
 
+##if the version of your python is less than 3.0, please add this line of code:
+##sys.setdefaultencoding('utf-8')
+
 ##get the path of the file
 FileName = sys.argv[0].split('.')[0]
 FullFileName = FileName + '.csv'
