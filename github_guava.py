@@ -14,7 +14,7 @@ https://github.com/google/guava/pulls?q=is%3Apr+is%3Aclosed
 
 # set the headers of request
 headers = {
-    'User-Agent': "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36",
+    'User-Agent': "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36",
     # "Host": 'github.com',
     'Accept': "application/json, text/plain, */*",
 }
