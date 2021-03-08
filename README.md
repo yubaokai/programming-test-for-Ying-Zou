@@ -1,4 +1,4 @@
 # programming-test-for-Ying-Zou
-The file named 'word_search.cpp' is the answer for the Question 2.  
-The file named 'issue_report.csv' and 'issue_report.py' are the answers for the Question 3.  
+The file named 'word_search.cpp' is the answer for the task "Word Search".  
+The file named 'github_guava.csv' and 'github_guava.py' are the answers for the crawl task "Crawl Pull Requests".  
 Thank you!  
